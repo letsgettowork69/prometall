@@ -1,0 +1,53 @@
+PROMETALL.KZ — список изображений для папки /images/
+Все имена — латиницей, строчными, с дефисами. Регистр важен: images != Images.
+Форматы: .webp (предпочтительно) или оптимизированный .jpg. Логотип и favicon — отдельно.
+================================================================
+
+ОБЩИЕ (2):
+  logo.svg            — логотип, без рамок, прозрачный фон (в комплекте заглушка, заменить)
+  favicon.png         — 64x64
+
+ГЛАВНАЯ (14):
+  hero-main.webp      — 1920x1080 (обложка hero)
+  service-navesy.webp         — 800x600 (карточка: Навесы)
+  service-markizy.webp        — 800x600 (карточка: Маркизы)
+  service-vorota.webp         — 800x600 (карточка: Ворота)
+  service-garazhi.webp        — 800x600 (карточка: Гаражи)
+  service-kozyrki.webp        — 800x600 (карточка: Козырьки)
+  service-kovka.webp          — 800x600 (карточка: Художественная ковка)
+  service-reshetki.webp       — 800x600 (карточка: Решётки на окна)
+  service-zabory.webp         — 800x600 (карточка: Заборы и ограждения)
+  service-lestnicy.webp       — 800x600 (карточка: Лестницы)
+  service-perila.webp         — 800x600 (карточка: Перила и ограждения)
+  service-metallokonstrukcii.webp— 800x600 (карточка: Металлоконструкции)
+  service-besedki.webp        — 800x600 (карточка: Беседки и перголы)
+  service-mangaly.webp        — 800x600 (карточка: Мангалы и барбекю)
+  service-dveri.webp          — 800x600 (карточка: Металлические двери)
+  service-metalloobrabotka.webp— 800x600 (карточка: Услуги металлообработки)
+
+СЕРВИСНЫЕ ГАЛЕРЕИ (по страницам), все 800x600:
+  [navesy] (8): navesy-1.webp, navesy-2.webp, navesy-3.webp, navesy-4.webp, navesy-5.webp, navesy-6.webp, navesy-7.webp, navesy-8.webp
+  [markizy] (6): markizy-1.webp, markizy-2.webp, markizy-3.webp, markizy-4.webp, markizy-5.webp, markizy-6.webp
+  [vorota] (8): vorota-1.webp, vorota-2.webp, vorota-3.webp, vorota-4.webp, vorota-5.webp, vorota-6.webp, vorota-7.webp, vorota-8.webp
+  [garazhi] (6): garazhi-1.webp, garazhi-2.webp, garazhi-3.webp, garazhi-4.webp, garazhi-5.webp, garazhi-6.webp
+  [kozyrki] (6): kozyrki-1.webp, kozyrki-2.webp, kozyrki-3.webp, kozyrki-4.webp, kozyrki-5.webp, kozyrki-6.webp
+  [kovka] (8): kovka-1.webp, kovka-2.webp, kovka-3.webp, kovka-4.webp, kovka-5.webp, kovka-6.webp, kovka-7.webp, kovka-8.webp
+  [reshetki] (6): reshetki-1.webp, reshetki-2.webp, reshetki-3.webp, reshetki-4.webp, reshetki-5.webp, reshetki-6.webp
+  [zabory] (8): zabory-1.webp, zabory-2.webp, zabory-3.webp, zabory-4.webp, zabory-5.webp, zabory-6.webp, zabory-7.webp, zabory-8.webp
+  [lestnicy] (6): lestnicy-1.webp, lestnicy-2.webp, lestnicy-3.webp, lestnicy-4.webp, lestnicy-5.webp, lestnicy-6.webp
+  [perila] (6): perila-1.webp, perila-2.webp, perila-3.webp, perila-4.webp, perila-5.webp, perila-6.webp
+  [metallokonstrukcii] (6): metallokonstrukcii-1.webp, metallokonstrukcii-2.webp, metallokonstrukcii-3.webp, metallokonstrukcii-4.webp, metallokonstrukcii-5.webp, metallokonstrukcii-6.webp
+  [besedki] (6): besedki-1.webp, besedki-2.webp, besedki-3.webp, besedki-4.webp, besedki-5.webp, besedki-6.webp
+  [mangaly] (6): mangaly-1.webp, mangaly-2.webp, mangaly-3.webp, mangaly-4.webp, mangaly-5.webp, mangaly-6.webp
+  [dveri] (4): dveri-1.webp, dveri-2.webp, dveri-3.webp, dveri-4.webp
+  [metalloobrabotka] (4): metalloobrabotka-1.webp, metalloobrabotka-2.webp, metalloobrabotka-3.webp, metalloobrabotka-4.webp
+
+О КОМПАНИИ (1):
+  about-production.webp — 1200x800 (фото производства/цеха)
+
+ПОРТФОЛИО (24), все 800x600:
+  portfolio-1.webp, portfolio-2.webp, portfolio-3.webp, portfolio-4.webp, portfolio-5.webp, portfolio-6.webp, portfolio-7.webp, portfolio-8.webp, portfolio-9.webp, portfolio-10.webp, portfolio-11.webp, portfolio-12.webp, portfolio-13.webp, portfolio-14.webp, portfolio-15.webp, portfolio-16.webp, portfolio-17.webp, portfolio-18.webp, portfolio-19.webp, portfolio-20.webp, portfolio-21.webp, portfolio-22.webp, portfolio-23.webp, portfolio-24.webp
+
+================================================================
+ИТОГО ФАЙЛОВ: 137
+  общие: 2 | hero: 1 | карточки услуг: 15 | галереи: 94 | о компании: 1 | портфолио: 24
